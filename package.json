@@ -1,6 +1,6 @@
 {
   "name": "code-quality-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Monorepo with some frequently-used configurations we use on projects \ud83c\udfa8",
   "main": "src/index.js",
   "scripts": {
